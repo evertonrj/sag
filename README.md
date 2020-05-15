@@ -1,6 +1,6 @@
-# SAGA
+# Sistema Auxiliar de Gerenciamento
 
-## Sisteme Auxiliar de Gerenciamento Administrativo
+## Módulo de entregas
 
 ### Autor:
 > Everton Ferreira
