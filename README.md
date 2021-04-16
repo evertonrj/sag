@@ -5,10 +5,8 @@
 ### Autor:
 > Everton Ferreira
 
-> Tiago Thiengo
-
 ### Descrição: 
-> Desenvolver um sistema web para auxiliar a Kian no gerenciamento dos processos,
+> Desenvolver um sistema web para auxiliar no gerenciamento dos processos,
 > de modo a executa-los com eficiência primando pela experiência e satisfação do usuário.
 
 ### Data Início: 
